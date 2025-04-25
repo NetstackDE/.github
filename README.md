@@ -1,8 +1,6 @@
 <img src="img/banner.jpg"></img>
 
 <p align="center">
-  <!-- Optional: Add your logo here -->
-  <!-- <img src="URL_TO_YOUR_LOGO.png" alt="Netstack Logo" width="200"/> -->
   <h1 align="center">Welcome to Netstack! 👋</h1>
 </p>
 
