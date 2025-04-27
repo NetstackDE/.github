@@ -30,7 +30,6 @@ This GitHub organization is where we share some of our work and interact with th
 *   **🔧 Open Source Tools & Libraries:** Utilities and projects we've developed and decided to share.
 *   **💡 Code Snippets & Examples:** Demonstrations or useful pieces of code related to our services.
 *   **🌱 Contributions:** Our involvement in other open-source projects.
-*   *(Maybe list 1-2 key pinned repositories here when you have them)*
 
 We believe in the power of collaboration and open source!
 
